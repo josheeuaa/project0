@@ -17,5 +17,5 @@ This project is designed for managing restaurant checks and tips, ensuring prope
 - **Recording Software:** Nvidia GeForce  
 
 ## Links
-- **Youtube:** https://youtu.be/CTGQlMqm9xY?si=6QJcHKmAxhma6HYx
+- **Youtube:** (https://youtu.be/QbpSYD_DcJU?si=QMt01ozESpRuzdCl
 - **GitHub:** https://github.com/josheeuaa/project0
